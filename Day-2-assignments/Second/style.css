@@ -1,0 +1,36 @@
+.card{
+    border: 2px solid;
+    width: 700px;
+    margin:auto;
+    border-radius: 20px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.title{
+    position: absolute;
+    top: 200px;
+    left: 120px;
+}
+
+.card p{
+    position: absolute;
+    top: 250px;
+}
+
+.btn{
+    position: absolute;
+    top:320px;
+    left:300px;
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 12px 20px;
+    border-radius: 20px;
+}
